@@ -262,7 +262,9 @@ img {
 	border-radius: 20px
 }
 .img-button {
-	border-radius: 20px 40px 20px 20px
+	border-radius: 40px 40px 40px 40px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 .img-thumbnail {
 	padding: 4px;
@@ -4951,4 +4953,9 @@ th.visible-print,td.visible-print {
 	color: #FFF;
 	text-align: right;
 	clear: both;
+
+}
+.divCR {
+	padding: 12px;
+	right: 14px;
 }
