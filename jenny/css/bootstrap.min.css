@@ -4944,7 +4944,7 @@ th.visible-print,td.visible-print {
 }.header {
 	background-image: url(../header.fw.png);
 	background-repeat: no-repeat;
-	/*height: 200px;
+	margin-bottom: 10px;	/*height: 200px;
 	background-size: cover;*/
 	
 }
