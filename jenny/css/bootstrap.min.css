@@ -4944,9 +4944,11 @@ th.visible-print,td.visible-print {
 	background-size: cover;*/
 	
 }
+
 .footerstyle {
 	background-color: #000000;
 	font-family: "Comic Sans MS", cursive;
 	color: #FFF;
 	text-align: right;
+	clear: both;
 }
