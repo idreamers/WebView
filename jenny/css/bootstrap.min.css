@@ -9,13 +9,7 @@
 body {
 	margin: 0
 }
-.footerstyle {
-	background-color: #000000;
-	font-family: "Comic Sans MS", cursive;
-	color: #FFF;
-	text-align: right;
-	left: 7px;
-}
+
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary {
 	display: block
 }
@@ -152,6 +146,7 @@ table {
 td,th {
 	padding: 0
 }
+
 @media print {
 	* {
 	text-shadow: none !important;
@@ -212,6 +207,7 @@ select {
 .table-bordered th,.table-bordered td {
 	border: 1px solid #ddd !important
 }
+
 }* {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -4947,4 +4943,10 @@ th.visible-print,td.visible-print {
 	margin-bottom: 10px;	/*height: 200px;
 	background-size: cover;*/
 	
+}
+.footerstyle {
+	background-color: #000000;
+	font-family: "Comic Sans MS", cursive;
+	color: #FFF;
+	text-align: right;
 }
